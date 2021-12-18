@@ -34,6 +34,6 @@ def run_caca():
         talk('playing ' +song)
         pywhatkit.playonyt(song)
     else:
-        talk('Suara lu gajelas anjing!')
+        talk('Tidak Terdengar Suaramu Bung!')
 
 run_caca()
